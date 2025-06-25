@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as e}from"./chunks/framework.Bw-5EFTY.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"scripts/dusty_dispatch.md","filePath":"scripts/dusty_dispatch.md"}'),a={name:"scripts/dusty_dispatch.md"};function c(r,d,p,i,o,n){return e(),s("div")}const f=t(a,[["render",c]]);export{m as __pageData,f as default};

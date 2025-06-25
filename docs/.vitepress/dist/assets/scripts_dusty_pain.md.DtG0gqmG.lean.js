@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./chunks/framework.Bw-5EFTY.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"scripts/dusty_pain.md","filePath":"scripts/dusty_pain.md"}'),a={name:"scripts/dusty_pain.md"};function r(n,c,p,i,o,_){return s(),e("div")}const f=t(a,[["render",r]]);export{m as __pageData,f as default};
